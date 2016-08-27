@@ -1,5 +1,8 @@
-# login-system-in-PHP
-basic php authentication system (no mvc or architecture)
+# Basic Login System in PHP
 
-run this with MAMP
+## Setup
+- Run this with MAMP
+
+## Description
+Very basic login system with no dependencies. Just raw login system. Use at your own risk.
 
